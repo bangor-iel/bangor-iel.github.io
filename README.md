@@ -1,2 +1,2 @@
-# github.io
-Webpage of the Bangor Immersive Environments Laboratory
+# bangor-iel.github.io
+Bangor Immersive Environments Laboratory
