@@ -60,6 +60,7 @@ h2 {
 a {
   color: #666;
   transition: color 0.25s ease-in-out;
+  text-decoration: none;
 }
 
 a:hover {
